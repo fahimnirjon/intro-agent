@@ -75,7 +75,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/fahimnirjon/intro-agent.git
-cd ai_mock_
+cd ai_moc
 ```
 
 **Installation**
